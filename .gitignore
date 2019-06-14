@@ -1,0 +1,15 @@
+/helm
+/bin/
+/config
+/public
+/var
+/templates
+/vendor
+/docker
+.dockerignore
+.env
+.php_cs.dist
+composer.json
+composer.lock
+Dockerfile
+symfony.lock
